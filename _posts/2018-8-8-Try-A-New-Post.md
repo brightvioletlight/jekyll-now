@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Try a new post!
 ---
 Hi!
 
